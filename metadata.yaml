@@ -1,5 +1,8 @@
 _repo: In-the-Claws-of-the-German-Eagle_11414
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Williams, Albert Rhys
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3970'
     url: http://www.gutenberg.org/2009/agents/3970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11414#In-the-Claws-of-the-German-Eagle
 gutenberg_bookshelf:
 - World War I
 - Germany
